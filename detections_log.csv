@@ -1,0 +1,5 @@
+Filename,Emission,DateTime,WindSpeed_kmh,WindDir_deg,WindDir_compass,AnnotatedPath,Num_Boxes,Avg_Confidence,Image_Width,Image_Height
+1.jpeg,emission,2025-10-16 17:29:00,5.5,293,NW,detected_images/20251016_172900__1.jpeg,3,0.5509685774644216,1200,869
+3.jpeg,emission,2025-10-16 17:29:00,5.5,293,NW,detected_images/20251016_172900__3.jpeg,3,0.5431359608968099,275,183
+4.jpeg,emission,2025-10-16 17:29:01,5.5,293,NW,detected_images/20251016_172901__4.jpeg,2,0.47542865574359894,566,280
+2.jpeg,emission,2025-10-16 17:29:01,5.5,293,NW,detected_images/20251016_172901__2.jpeg,2,0.5809173583984375,992,558
